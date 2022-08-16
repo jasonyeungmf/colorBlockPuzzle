@@ -1,8 +1,8 @@
----
-layout: post
-title: "Privacy Policy"
-permalink: /colorBlockPuzzle/privacyPolicy/
----
+#---
+#layout: post
+#title: "Privacy Policy"
+#permalink: /colorBlockPuzzle/privacyPolicy/
+#---
 
 <h1>Privacy Policy</h1>
 <p>Last updated: July 26, 2022</p>
