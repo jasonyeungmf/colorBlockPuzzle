@@ -2,6 +2,7 @@
 layout: page
 title: "Privacy Policy"
 permalink: /colorBlockPuzzle/privacyPolicy/
+theme: jekyll-theme-hacker
 ---
 
 <h1>Privacy Policy</h1>
